@@ -14,6 +14,7 @@ Welcome to the **Top 20 SQL Interview Questions** repository! This resource is d
 
 ---
 
+1. [SQL murder mystery](https://mystery.knightlab.com/)
 ## 🟢 **Basic SQL Questions**
 
 ### 1️⃣ Retrieve all records from a table  
