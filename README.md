@@ -15,6 +15,7 @@ Welcome to the **Top 20 SQL Interview Questions** repository! This resource is d
 ---
 
 1. [SQL murder mystery](https://mystery.knightlab.com/)
+2. [SQL Tutorial for Beginner by code with harry]([https://mystery.knightlab.com/](https://youtu.be/yE6tIle64tU?si=DN1J6jXxDHySimUT))
 ## 🟢 **Basic SQL Questions**
 
 ### 1️⃣ Retrieve all records from a table  
